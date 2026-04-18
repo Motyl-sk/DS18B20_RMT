@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map for DS18B20_RMT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DS18B20_task	KEYWORD1
+Cfg	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+end	KEYWORD2
+requestScan	KEYWORD2
+getTemp	KEYWORD2
+getAddr	KEYWORD2
+setAddr	KEYWORD2
+clearAddr	KEYWORD2
+getFoundAddrs	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX_SENSORS	LITERAL1
+BAD_TEMP_C	LITERAL1
+ADDR_EMPTY	LITERAL1
